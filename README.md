@@ -1,2 +1,2 @@
 # ProjectPilot
-A pilot on project management
+A pilot for project management
