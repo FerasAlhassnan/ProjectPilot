@@ -242,6 +242,24 @@ INSERT INTO C_EP_PROXY
 	'SendProjects',
 	'',
 	'../../../../../ProjectMgt/models/ProjectMgt/Interfaces/Projects/Projects.xtuml');
+INSERT INTO SPR_REP
+	VALUES ("43ed04e8-7e0d-4045-a246-ba5ab9b7f4c7",
+	"204ea526-0e54-4759-b8bf-472a37de63ed",
+	"06f183cc-fc20-4fcf-a61b-63cf933bba4b");
+INSERT INTO SPR_RS
+	VALUES ("43ed04e8-7e0d-4045-a246-ba5ab9b7f4c7",
+	'Initialize',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO C_EP_PROXY
+	VALUES ("204ea526-0e54-4759-b8bf-472a37de63ed",
+	"62692e27-ebac-4ffb-93a8-6e3bb1f66c2d",
+	-1,
+	'Initialize',
+	'',
+	'../../../../../ProjectMgt/models/ProjectMgt/Interfaces/Projects/Projects.xtuml');
 INSERT INTO C_I_PROXY
 	VALUES ("62692e27-ebac-4ffb-93a8-6e3bb1f66c2d",
 	"00000000-0000-0000-0000-000000000000",
